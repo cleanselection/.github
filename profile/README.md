@@ -13,6 +13,10 @@
 
 <p align="center">
   <a href="https://cleanselection.com/"><strong>Try the live playground</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/cleanselection/cleanselection/releases/latest"><strong>Get the WordPress plugin</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/cleanselection/cleanselection"><strong>Explore the project</strong></a>
 </p>
 
 Selecting text should feel closer to marking a page than wrestling with a tiny browser highlight. Clean Selection lets readers gently paint across words and lines with an airbrush-like gesture, then copy, quote, collect, or erase what they selected.
@@ -35,7 +39,7 @@ It is designed for articles, conversations, forums, documentation, and other pla
 
 ## Open-source project
 
-The [Clean Selection repository](https://github.com/cleanselection/cleanselection) contains the browser library, documentation, and a WordPress plugin. The core library is available under the MIT License.
+The [Clean Selection repository](https://github.com/cleanselection/cleanselection) contains the browser library and documentation. An installable WordPress package is available from the [latest release](https://github.com/cleanselection/cleanselection/releases/latest). The core library is available under the MIT License.
 
 Clean Selection also provides the selection experience behind [Re:Likes](https://relikes.com/), a project for reacting to exact passages rather than entire pages.
 
